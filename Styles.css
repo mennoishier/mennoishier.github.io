@@ -1,15 +1,13 @@
 body {
+    margin: 0;
     background: silver;
+    text-align: center;
 }
 
 .maincontent {
-    margin : 0;
-    background : silver;
-    text-align: center;
+    background : whitesmoke;
 } 
 
 .header {
-    margin: 0;
     background: grey;
-    text-align: center;
 }
