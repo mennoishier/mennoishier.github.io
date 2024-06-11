@@ -2,7 +2,7 @@
 Personal Website
 
 Missie:
-Maak een prachtige website om mijn portfolio, ervaring, persoonlijkheid en karakter weer te geven.
+Maak een website om mijn portfolio, ervaring, persoonlijkheid en karakter weer te geven.
 
 Stappen:
     1. Maak pagina's;   
