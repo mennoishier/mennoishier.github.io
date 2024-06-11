@@ -10,10 +10,11 @@ Stappen:
         b. Over mij
         c. Ervaring
         d. Contact
-V
-    2. Vul pagina's aan 
-    3. Voeg styling toe
-    4. Header en footer toevoegen
+    2. Voeg styling toe
+    3. Header en footer toevoegen
         a. Plaats links naar alle pagina in header en footer
+V
+    4. Vul pagina's aan
     5. Afbeeldingen toevoegen
     6. Content maken
+    7. Verkoopbaar maken
