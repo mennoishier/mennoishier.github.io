@@ -1,5 +1,12 @@
-body {
+.maincontent {
+    body {
     margin : 0;
     background : silver;
+    text-align: center;
+}} 
+
+.header {
+    margin: 0;
+    background: silver;
     text-align: center;
 }
