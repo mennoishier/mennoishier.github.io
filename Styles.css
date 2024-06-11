@@ -4,15 +4,10 @@ body {
     text-align: center;
 }
 
-/* main {
-    background : whitesmoke;
-}  */
-
 header {
     background: grey;
 }
 
 footer {
     background: rgb(126, 126, 126);
-    color: antiquewhite;
 }
