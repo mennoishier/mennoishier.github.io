@@ -4,10 +4,14 @@ body {
     text-align: center;
 }
 
-.maincontent {
+main {
     background : whitesmoke;
 } 
 
-.header {
+header {
     background: grey;
+}
+
+footer {
+    background: darkgray;
 }
