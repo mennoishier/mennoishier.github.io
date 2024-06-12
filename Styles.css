@@ -17,7 +17,6 @@ header {
 }
 
 .top-bar {
-  padding-top: 5px;
   max-height: 80px;
   display:flex;
   align-items: center;
@@ -31,7 +30,7 @@ footer {
 .container {
   width: 92%;
   margin: auto;
-  height: auto;
+  height: calc(100%);
   border: 2px solid red;
 }
 
