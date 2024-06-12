@@ -25,9 +25,10 @@ header {
 }
 
 footer {
-  position: bottom;
+  position: relative;
   margin-top: auto;
     background: rgb(146, 146, 146);
+  clear: both;
 }
 
 .container {
