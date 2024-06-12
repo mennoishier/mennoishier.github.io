@@ -30,7 +30,7 @@ header {
 
 footer {
   background: rgb(146, 146, 146);
-  position: bottom(relative);
+  position: relative(bottom);
   height: 80px;
   margin-top: -80px;
   clear: both;
