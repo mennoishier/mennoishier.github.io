@@ -12,6 +12,7 @@ main h2{
 
 header {
     background: rgb(151, 151, 151);
+    height: auto;
 }
 
 .top-bar {
