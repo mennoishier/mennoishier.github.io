@@ -3,6 +3,7 @@ body {
     /* height: 100%; */
     background: silver;
     text-align: center;
+    width: calc(100%);
     /* margin-left: auto;
     margin-right: auto; */
 }
