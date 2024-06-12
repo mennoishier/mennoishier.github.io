@@ -11,8 +11,10 @@ main h2{
 }
 
 header {
-    background: rgb(151, 151, 151);
-    height: auto;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background: rgb(151, 151, 151);
+  height: 150px;
 }
 
 .top-bar {
