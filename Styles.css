@@ -32,7 +32,7 @@ footer {
   width: 92%;
   margin: auto;
   height: fit-content;
-  border: 2px solid red;
+  /* border: 2px solid red; */
 }
 
 /* Tablet Styles */
