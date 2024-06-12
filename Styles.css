@@ -8,7 +8,7 @@ body {
 }
 main{
   overflow: auto;
-  padding-bottom: 80px;
+  padding-bottom: 79px;
 }
 
 main h2{
@@ -32,8 +32,8 @@ header {
 footer {
   background: rgb(146, 146, 146);
   position: relative(bottom);
-  height: 80px;
-  margin-top: -80px;
+  height: 79px;
+  margin-top: -79px;
   margin-bottom: 0px;
   clear: both;
 }
