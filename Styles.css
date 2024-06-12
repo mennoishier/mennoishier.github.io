@@ -14,11 +14,11 @@ main h2{
 header {
   background: rgb(151, 151, 151);
   vertical-align: middle;
-  height: 100px;
+  height: 100%;
 }
 
 .top-bar {
-  max-height: 100px;
+  max-height: 100%;
   display:flex;
   align-items: center;
   justify-content: space-between;
