@@ -6,12 +6,44 @@ body {
     margin-right: auto;
 }
 
+main h2{
+  margin-top: 0px;
+}
+
 header {
     background: rgb(151, 151, 151);
 }
 
+.top-bar {
+  height: 80px;
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
 footer {
     background: rgb(146, 146, 146);
+}
+
+.container {
+  width: 92%;
+  margin: auto;
+  height: 100%;
+  border: 2px solid red;
+}
+
+/* Tablet Styles */
+@media only screen and (min-width:576px) {
+  .container {
+    width: 540px;
+  }
+}
+
+/* Desktop Styles */
+@media only screen and (min-width:1200px) {
+  .container {
+    width: 1140px;
+  }
 }
 
 h1 {
@@ -68,9 +100,3 @@ h6 {
     font-weight: bold;
   }
 
-  .container {
-    width: 92%;
-    margin: auto;
-    height: 100%;
-    border: 2px solid red;
-  }
