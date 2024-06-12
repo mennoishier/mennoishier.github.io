@@ -6,6 +6,10 @@ body {
     /* margin-left: auto;
     margin-right: auto; */
 }
+main{
+  overflow: auto;
+  padding-bottom: 80px;
+}
 
 main h2{
   margin-top: 1.5px;
@@ -25,9 +29,10 @@ header {
 }
 
 footer {
+  background: rgb(146, 146, 146);
   position: relative;
-  margin-top: auto;
-    background: rgb(146, 146, 146);
+  height: 80px;
+  margin-top: -80px;
   clear: both;
 }
 
