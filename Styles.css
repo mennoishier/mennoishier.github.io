@@ -16,9 +16,10 @@ main h2{
 }
 
 header {
+  border-top: 2px;
   background: rgb(151, 151, 151);
   vertical-align: middle;
-  height: 100px; 
+  height: 90px; 
 }
 
 .top-bar {
