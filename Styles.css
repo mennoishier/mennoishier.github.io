@@ -29,9 +29,10 @@ footer {
 
 .container {
   width: 92%;
-  /* margin: auto; */
+  margin: auto;
+  text-align: center;
   height: 100%;
-  /* border: 2px solid red; */
+  border: 2px solid red;
 }
 
 /* Tablet Styles */
