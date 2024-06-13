@@ -15,7 +15,7 @@ body {
 }
 main{
   overflow: auto;
-  padding-bottom: 80px;
+  /* padding-bottom: 80px; */
 }
 
  main h2{
@@ -26,6 +26,7 @@ header {
   border-top: 2px;
   background: rgb(151, 151, 151);
   vertical-align: middle;
+  border-bottom: 1px solid black;
   height: 180px; 
 }
 
