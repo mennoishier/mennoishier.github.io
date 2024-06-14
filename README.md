@@ -29,4 +29,3 @@ V
                 ||. Organisch  
             d. Muziek
             e. video's of afbeeldingen
-    7. Verkoopbaar maken
