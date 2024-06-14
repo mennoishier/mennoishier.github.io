@@ -10,8 +10,20 @@ body {
     flex-direction: column;
     background: silver;
     text-align: center;
-
 }
+
+body h1{
+  font-size: 1.4em;
+}
+
+body h2{
+  font-size: 1.3em;
+}
+
+body h3{
+  font-size: 1.15em;
+}
+
 main{
   overflow: auto;
 }
@@ -57,7 +69,7 @@ footer {
   }
 }
 
-h1 {
+/* h1 {
     font-size: 1.5em;
     margin-top: 0.4em;
     margin-bottom: 0.4em;
@@ -110,4 +122,4 @@ h6 {
     margin-right: 0;
     font-weight: bold;
   }
-
+ */
