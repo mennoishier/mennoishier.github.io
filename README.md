@@ -14,7 +14,17 @@ Stappen:
     3. Header en footer toevoegen
         a. Plaats links naar alle pagina in header en footer
 V
-    4. Vul pagina's aan
-    5. Afbeeldingen toevoegen
-    6. Content maken
+    4. Vul pagina's aan met genoeg text
+    5. Afbeeldingen toevoegen   
+        a. Grid maken
+        b. Flexbox maken
+        c. Masonry layout fixen
+    6. Nieuwe ideeën;
+        a. Dropdown in header met kennis V
+        b. Search engine strategy
+            |. Paid
+            ||. Organisch
+        c. Social media strategy
+            |. Paid
+            ||. Organisch  
     7. Verkoopbaar maken
