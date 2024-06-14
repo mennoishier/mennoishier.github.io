@@ -21,10 +21,12 @@ V
         c. Masonry layout fixen
     6. Nieuwe ideeën;
         a. Dropdown in header met kennis V
-        b. Search engine strategy
-            |. Paid
-            ||. Organisch
-        c. Social media strategy
-            |. Paid
-            ||. Organisch  
+            b. Search engine strategy
+                |. Paid
+                ||. Organisch
+            c. Social media strategy
+                |. Paid
+                ||. Organisch  
+            d. Muziek
+            e. video's of afbeeldingen
     7. Verkoopbaar maken
