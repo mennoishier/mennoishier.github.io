@@ -51,9 +51,9 @@ footer {
 
 .container {
   width: 92%;
-  /* margin: auto; */
+  margin: auto;
   height: fit-content;
-  text-align: center;
+  /* text-align: center; */
   /* border: 2px solid red; */
 }
 
