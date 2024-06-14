@@ -24,7 +24,7 @@ header {
   padding-top: 5px;
   padding-bottom: 10px;
   background: rgb(151, 151, 151);
-  vertical-align: middle;
+  /* vertical-align: middle; */
   border-bottom: 1px solid white;
 }
 
