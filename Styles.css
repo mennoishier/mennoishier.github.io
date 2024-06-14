@@ -12,28 +12,28 @@ body {
     text-align: center;
 }
 
-body h1{
+main h1{
   font-size: 1.4em;
   margin-top: 0.4em;
 }
 
-body h2{
+main h2{
   font-size: 1.3em;
 }
 
-body h3{
+main h3{
   font-size: 1.15em;
 }
 
-body h4{
+main h4{
   font-size: 1em;
 }
 
-body h5{
+main h5{
   font-size: 0.85em;
 }
 
-body h6{
+main h6{
   font-size: .6em;
 }
 
