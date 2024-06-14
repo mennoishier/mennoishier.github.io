@@ -10,12 +10,10 @@ body {
     flex-direction: column;
     background: silver;
     text-align: center;
-    /* margin-left: auto;
-    margin-right: auto; */
+
 }
 main{
   overflow: auto;
-  /* padding-bottom: 80px; */
 }
 
  main h2{
@@ -28,33 +26,24 @@ header {
   background: rgb(151, 151, 151);
   vertical-align: middle;
   border-bottom: 1px solid white;
-  /* height: 180px;   */
 }
 
 .top-bar {
-  /* max-height: 100%; */
-  /* display:flex; */
   align-items: center;
   justify-content: space-between;
 }
 
 footer {
   background: rgb(146, 146, 146);
-  /* position: relative(bottom); */
-  /* height: 80px; */
   margin-top: auto;
   border-top: 1px solid white;
   padding-bottom: 15px;
-  /* margin-bottom: 0px;
-  clear: both; */
 }
 
 .container {
   width: 92%;
   margin: auto;
   height: fit-content;
-  /* text-align: center; */
-  /* border: 2px solid red; */
 }
 
 /* Tablet Styles */
